@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1088682403792",
+    "firebase_url": "https://notesapp-79044.firebaseio.com",
+    "project_id": "notesapp-79044",
+    "storage_bucket": "notesapp-79044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088682403792:android:1553061f808da1141d3bd5",
+        "android_client_info": {
+          "package_name": "me.nakeeb.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088682403792-s4qodol1o9rc0c8il1dckmfil6v3kkpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGPwTuhc5PJMp341bYzVDe2e91hG6ggc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088682403792-s4qodol1o9rc0c8il1dckmfil6v3kkpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
